@@ -1,0 +1,21 @@
+.picture{
+   padding:0 15px;
+    overflow: hidden;
+}
+.gridImg{
+    width: 33.33333333333333%;
+    font-size: 0;
+    height:90px;
+    margin:2% 0;
+    padding:0 2%;
+    box-sizing: border-box;
+   overflow: hidden;
+    float: left;
+
+}
+.gridImg img{
+
+    height:90px;
+    font-size: 0;
+    width: 100%;
+}
