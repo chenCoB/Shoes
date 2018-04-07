@@ -1,3 +1,9 @@
+"界面效果"
+https://github.com/chenCoB/Shoes/blob/master/img/mess.png
+https://github.com/chenCoB/Shoes/blob/master/img/ms.png
+https://github.com/chenCoB/Shoes/blob/master/img/my.png
+https://github.com/chenCoB/Shoes/blob/master/img/pro.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -104,7 +110,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Something Missing?](#something-missing)
 
 ## Updating to New Releases
-https://github.com/chenCoB/Shoes/blob/master/img/mess.png
+
 Create React App is divided into two packages:
 
 * `create-react-app` is a global command-line utility that you use to create new projects.
